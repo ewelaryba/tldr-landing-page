@@ -66,16 +66,16 @@ li img:hover {
 	padding-left: 3%;
 	padding-right: 1%;
 	bottom: 13%;
-	background: rgb(129,202,165);
-	color: rgb(74,75,76);
+	background: rgb(241,90,37);
+	color: rgb(241,233,229);
 	font-size: 1.9em;
 	font-family: "Futura";
 }
 #tagline2 {
 	position: fixed;
 	bottom: 5%;
-	background: rgb(155,157,160); 
-	color: rgb(241,233,229);
+	background: rgb(241,233,229); 
+	color: rgb(241,90,37);
 	font-size: 1.9em;
 	padding-left: 3%;
 	padding-right: 1%;
@@ -104,7 +104,7 @@ li img:hover {
 	display: inline-block;
 }
 #mc-embedded-subscribe {
-	background: rgb(129,202,165);
+	background: rgb(241,90,37);
 	font-family: "Futura";
 	text-transform: uppercase;
 	padding-left: 10px;
